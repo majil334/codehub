@@ -15,6 +15,6 @@ int main()
 
 class testclas{
 public:
-    getname();
+    setname();
     
 }
