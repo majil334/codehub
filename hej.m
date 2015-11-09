@@ -16,5 +16,8 @@ int main()
 class testclas{
 public:
     gitname();
+
+    setname();
+
     
 }
