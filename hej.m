@@ -1,4 +1,14 @@
-hej
-hej maja
+//hej
+//hej maja
 
-cout >> Fanny
+//cout >> Fanny
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hej Majsan" ;
+    
+    return 0;
+}
