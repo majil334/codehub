@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hej Majsan" ;
+    cout << "Hej Fankan" ;
     
     return 0;
 }
