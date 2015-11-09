@@ -12,3 +12,9 @@ int main()
     
     return 0;
 }
+
+class testclas{
+public:
+    getname();
+    
+}
